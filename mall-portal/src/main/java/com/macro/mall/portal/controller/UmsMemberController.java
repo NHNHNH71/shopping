@@ -20,7 +20,6 @@ import java.util.Map;
 
 /**
  * 会员登录注册管理Controller
- * Created by macro on 2018/8/3.
  */
 @Controller
 @Tag(name = "UmsMemberController", description = "会员登录注册管理")

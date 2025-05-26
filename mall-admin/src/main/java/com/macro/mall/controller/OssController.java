@@ -15,7 +15,6 @@ import jakarta.servlet.http.HttpServletRequest;
 
 /**
  * Oss相关操作接口
- * Created by macro on 2018/4/26.
  */
 @Controller
 @Tag(name = "OssController", description = "Oss管理")

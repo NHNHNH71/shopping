@@ -18,7 +18,6 @@ import java.util.List;
 
 /**
  * 订单退货申请管理
- * Created by macro on 2018/10/18.
  */
 @Controller
 @Tag(name = "OmsOrderReturnApplyController", description = "订单退货申请管理")

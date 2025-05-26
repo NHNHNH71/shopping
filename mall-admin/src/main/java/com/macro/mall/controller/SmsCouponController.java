@@ -16,7 +16,6 @@ import java.util.List;
 
 /**
  * 优惠券管理Controller
- * Created by macro on 2018/8/28.
  */
 @Controller
 @Tag(name = "SmsCouponController", description = "优惠券管理")

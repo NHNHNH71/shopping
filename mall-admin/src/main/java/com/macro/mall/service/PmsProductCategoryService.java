@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  * 商品分类Service
- * Created by macro on 2018/4/26.
+
  */
 public interface PmsProductCategoryService {
     /**

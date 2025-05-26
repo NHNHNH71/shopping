@@ -17,7 +17,6 @@ import java.util.List;
 
 /**
  * 会员关注品牌管理Controller
- * Created by macro on 2018/8/2.
  */
 @Controller
 @Tag(name = "MemberAttentionController", description = "会员关注品牌管理")

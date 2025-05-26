@@ -1,7 +1,6 @@
 package com.macro.mall.demo.controller;
 
 /**
- * Created by macro on 2019/10/18.
  */
 
 import com.macro.mall.common.api.CommonResult;

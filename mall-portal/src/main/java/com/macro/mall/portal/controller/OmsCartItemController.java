@@ -17,7 +17,6 @@ import java.util.List;
 
 /**
  * 购物车管理Controller
- * Created by macro on 2018/8/2.
  */
 @Controller
 @Tag(name = "OmsCartItemController", description = "购物车管理")

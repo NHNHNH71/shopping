@@ -15,7 +15,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
  * 申请退货管理Controller
- * Created by macro on 2018/10/17.
  */
 @Controller
 @Tag(name = "OmsPortalOrderReturnApplyController", description = "申请退货管理")
